@@ -1,0 +1,6 @@
+/Users/don/CAB301Projects/Workshop1Q5/Workshop1Q5/bin/Debug/Workshop1Q5.exe
+/Users/don/CAB301Projects/Workshop1Q5/Workshop1Q5/bin/Debug/Workshop1Q5.pdb
+/Users/don/CAB301Projects/Workshop1Q5/Workshop1Q5/obj/Debug/Workshop1Q5.csprojAssemblyReference.cache
+/Users/don/CAB301Projects/Workshop1Q5/Workshop1Q5/obj/Debug/Workshop1Q5.csproj.CoreCompileInputs.cache
+/Users/don/CAB301Projects/Workshop1Q5/Workshop1Q5/obj/Debug/Workshop1Q5.exe
+/Users/don/CAB301Projects/Workshop1Q5/Workshop1Q5/obj/Debug/Workshop1Q5.pdb
