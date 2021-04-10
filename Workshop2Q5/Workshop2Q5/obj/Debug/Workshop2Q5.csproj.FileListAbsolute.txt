@@ -1,0 +1,6 @@
+/Users/don/GitHub/CAB301-Code/Workshop2Q5/Workshop2Q5/bin/Debug/Workshop2Q5.exe
+/Users/don/GitHub/CAB301-Code/Workshop2Q5/Workshop2Q5/bin/Debug/Workshop2Q5.pdb
+/Users/don/GitHub/CAB301-Code/Workshop2Q5/Workshop2Q5/obj/Debug/Workshop2Q5.csprojAssemblyReference.cache
+/Users/don/GitHub/CAB301-Code/Workshop2Q5/Workshop2Q5/obj/Debug/Workshop2Q5.csproj.CoreCompileInputs.cache
+/Users/don/GitHub/CAB301-Code/Workshop2Q5/Workshop2Q5/obj/Debug/Workshop2Q5.exe
+/Users/don/GitHub/CAB301-Code/Workshop2Q5/Workshop2Q5/obj/Debug/Workshop2Q5.pdb
