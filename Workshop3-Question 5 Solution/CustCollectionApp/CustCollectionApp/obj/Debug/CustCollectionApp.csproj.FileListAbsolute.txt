@@ -1,0 +1,16 @@
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\CustCollectionApp\CustCollectionApp\bin\Debug\CustCollectionApp.exe.config
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\CustCollectionApp\CustCollectionApp\bin\Debug\CustCollectionApp.exe
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\CustCollectionApp\CustCollectionApp\bin\Debug\CustCollectionApp.pdb
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\CustCollectionApp\CustCollectionApp\obj\Debug\CustCollectionApp.csprojResolveAssemblyReference.cache
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\CustCollectionApp\CustCollectionApp\obj\Debug\CustCollectionApp.exe
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\CustCollectionApp\CustCollectionApp\obj\Debug\CustCollectionApp.pdb
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\Question 5 Solution\CustCollectionApp\CustCollectionApp\bin\Debug\CustCollectionApp.exe.config
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\Question 5 Solution\CustCollectionApp\CustCollectionApp\obj\Debug\CustCollectionApp.exe
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\Question 5 Solution\CustCollectionApp\CustCollectionApp\obj\Debug\CustCollectionApp.pdb
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 3\Question 5 Solution\CustCollectionApp\CustCollectionApp\bin\Debug\CustCollectionApp.exe.config
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 3\Question 5 Solution\CustCollectionApp\CustCollectionApp\bin\Debug\CustCollectionApp.exe
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 3\Question 5 Solution\CustCollectionApp\CustCollectionApp\bin\Debug\CustCollectionApp.pdb
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 3\Question 5 Solution\CustCollectionApp\CustCollectionApp\obj\Debug\CustCollectionApp.csprojAssemblyReference.cache
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 3\Question 5 Solution\CustCollectionApp\CustCollectionApp\obj\Debug\CustCollectionApp.csproj.CoreCompileInputs.cache
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 3\Question 5 Solution\CustCollectionApp\CustCollectionApp\obj\Debug\CustCollectionApp.exe
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 3\Question 5 Solution\CustCollectionApp\CustCollectionApp\obj\Debug\CustCollectionApp.pdb

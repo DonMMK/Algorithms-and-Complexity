@@ -1,0 +1,22 @@
+\\qut.edu.au\documents\StaffHome\StaffGroupt$\tangm\Desktop\CAB301-2019\Teaching Resources\Week 8\CAB301-Workshop7-Programming-Solutions\Stack\Stack\bin\Debug\Stack.exe.config
+\\qut.edu.au\documents\StaffHome\StaffGroupt$\tangm\Desktop\CAB301-2019\Teaching Resources\Week 8\CAB301-Workshop7-Programming-Solutions\Stack\Stack\bin\Debug\Stack.exe
+\\qut.edu.au\documents\StaffHome\StaffGroupt$\tangm\Desktop\CAB301-2019\Teaching Resources\Week 8\CAB301-Workshop7-Programming-Solutions\Stack\Stack\bin\Debug\Stack.pdb
+\\qut.edu.au\documents\StaffHome\StaffGroupt$\tangm\Desktop\CAB301-2019\Teaching Resources\Week 8\CAB301-Workshop7-Programming-Solutions\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+\\qut.edu.au\documents\StaffHome\StaffGroupt$\tangm\Desktop\CAB301-2019\Teaching Resources\Week 8\CAB301-Workshop7-Programming-Solutions\Stack\Stack\obj\Debug\Stack.exe
+\\qut.edu.au\documents\StaffHome\StaffGroupt$\tangm\Desktop\CAB301-2019\Teaching Resources\Week 8\CAB301-Workshop7-Programming-Solutions\Stack\Stack\obj\Debug\Stack.pdb
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\Workshop2-Programming-Solutions\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\Workshop2-Programming-Solutions\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\Workshop2-Programming-Solutions\Stack\Stack\obj\Debug\Stack.pdb
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\Workshop2-Programming-Solutions\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\Workshop2-Programming-Solutions\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\Workshop2-Programming-Solutions\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\Question 3 Solution\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\Question 3 Solution\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\IFN564 Data Structures and Algorithms\Week 2\Question 3 Solution\Stack\Stack\obj\Debug\Stack.pdb
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 3\Question 3 Solution\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 3\Question 3 Solution\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 3\Question 3 Solution\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 3\Question 3 Solution\Stack\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 3\Question 3 Solution\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 3\Question 3 Solution\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\tangm\OneDrive - Queensland University of Technology\Desktop\CAB301 (2021)\Week 3\Question 3 Solution\Stack\Stack\obj\Debug\Stack.pdb
